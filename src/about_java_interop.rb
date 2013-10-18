@@ -133,5 +133,4 @@ class AboutJavaInterop < Neo::Koan
 
     assert_equal 120, java_array.multiply_all
   end
-
 end
